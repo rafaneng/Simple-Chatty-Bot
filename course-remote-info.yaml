@@ -48,6 +48,8 @@ topics:
     theory_id: 3512
   - title: Conditional statement
     theory_id: 3503
+  - title: Ternary operator
+    theory_id: 3506
   - title: The for-loop
     theory_id: 3505
   3:
