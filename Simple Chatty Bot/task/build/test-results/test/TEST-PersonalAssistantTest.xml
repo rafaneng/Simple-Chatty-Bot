@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-27T14:08:52" hostname="Jarvis" time="0.043">
+<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-23T00:07:05" hostname="Jarvis" time="0.071">
   <properties/>
-  <testcase name="start" classname="PersonalAssistantTest" time="0.043"/>
+  <testcase name="start" classname="PersonalAssistantTest" time="0.071"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-Hello! My name is Jarvis
-I was created in 2020
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+> John
+What a great name you have, John!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 1 2 1
+Your age is 22; that's a good time to start programming!
+?[1;31m
+Start test 2?[0m
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+> Nick
+What a great name you have, Nick!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 2 0 0
+Your age is 35; that's a good time to start programming!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
